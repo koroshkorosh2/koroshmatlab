@@ -61,6 +61,7 @@ a {
   color: #FF6339;
   font-size: 21px;
   line-height: 140%;
+  text-transform: capitalize;
 }
 
 .text-block-2 {
