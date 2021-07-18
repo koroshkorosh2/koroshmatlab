@@ -57,10 +57,11 @@ a {
 
 .bio {
   margin-bottom: 40px;
-  font-family: Lora, sans-serif;
+  
   color: #FF6339;
-  font-size: 21px;
-  line-height: 140%;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 1px;
   text-transform: capitalize;
 }
 
